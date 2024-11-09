@@ -1,4 +1,4 @@
-Registration Form Project
+**Registration Form Project: **
 This project is a basic registration form built with HTML, CSS, and JavaScript, which saves the submitted form data to localStorage and displays it on a separate page in an attractive table format.
 
 Features
